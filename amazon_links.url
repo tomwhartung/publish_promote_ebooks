@@ -1,18 +1,31 @@
-Author Page
------------
-Memorable version:
-  https://amazon.com/author/tomwhartung
 
-Expands to:
-  https://www.amazon.com/Tom-Hartung/e/B07S8MV685
 
+Amazon Author Pages
+-------------------
 Author Central:
   https://authorcentral.amazon.com/gp/profile
+Bitly Version:
+
+My page - memorable version:
+  https://amazon.com/author/tomwhartung
+Redirects to:
+  https://www.amazon.com/Tom-Hartung/e/B07S8MV685
+This also works:
+  https://www.amazon.com/-/e/B07S8MV685
+Bitly Version:
+
+Goodreads
+---------
+2019 Politicians List:
+  https://www.goodreads.com/review/list/75089145-tom-hartung?utf8=%E2%9C%93&shelf=2019-politicians&title=tom-hartung&sort=position&order=a
+Bitly Version:
+
 
 Visualizing Politicians' Personalities, 2019 Incumbents and Candidates
 ----------------------------------------------------------------------
 Book:
   https://www.amazon.com/dp/B07XYHQ16R
+Bitly Version:
 
 HTML:
 <a href="https://www.amazon.com/dp/B07XYHQ16R">Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</a>
@@ -25,4 +38,19 @@ HTML:
 
 <a href="https://www.amazon.com/dp/B07XYHQ16R" title="Link to buy the book on amazon" target="_blank">
  Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</a>
+
+
+Visualizing Game of Thrones Personalities- Full Edition: From Ned and Cersei to Tyrion and Daenerys
+----------------------------------------------------------------------------------------------------
+Book:
+  https://www.amazon.com/dp/B07SBQ51ZS
+Bitly Version:
+
+
+Visualizing Game of Thrones Personalities: Mini-ebook Edition
+-------------------------------------------------------------
+Book:
+  https://www.amazon.com/dp/B07S7KT4S8
+Bitly Version:
+
 
