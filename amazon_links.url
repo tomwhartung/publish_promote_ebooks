@@ -1,0 +1,28 @@
+Author Page
+-----------
+Memorable version:
+  https://amazon.com/author/tomwhartung
+
+Expands to:
+  https://www.amazon.com/Tom-Hartung/e/B07S8MV685
+
+Author Central:
+  https://authorcentral.amazon.com/gp/profile
+
+Visualizing Politicians' Personalities, 2019 Incumbents and Candidates
+----------------------------------------------------------------------
+Book:
+  https://www.amazon.com/dp/B07XYHQ16R
+
+HTML:
+<a href="https://www.amazon.com/dp/B07XYHQ16R">Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</a>
+
+<a href="https://www.amazon.com/dp/B07XYHQ16R" title="Link to buy the book on amazon">
+ Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</a>
+
+<a href="https://www.amazon.com/dp/B07XYHQ16R" title="Link to buy the book on amazon">
+ Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</a>
+
+<a href="https://www.amazon.com/dp/B07XYHQ16R" title="Link to buy the book on amazon" target="_blank">
+ Visualizing Politicians' Personalities, 2019 Incumbents and Candidates</a>
+
