@@ -4,7 +4,7 @@ Blue
 Thomas Jefferson - INTP
 [Big-B] Idealistic Author
 Declared everyone is "created equal"
-[B] 79% versus 21% [Y]
+[B] 79% philosophical versus 21% shallow [Y]
 [G] 53% versus 47% [R]
 [BY] 79% versus 21% [GR]
 
@@ -13,7 +13,7 @@ Green
 Alexander Hamilton - ESTJ
 [Big-G] Logical Organizer
 Soldier, Leader, Founder of Federal Bank
-[Y] 63% versus 37% [B]
+[Y] 63% detail-oriented versus 37% strategizing [B]
 [G] 84% versus 16% [R]
 [GR] 84% versus 16% [BY]
 
@@ -22,7 +22,7 @@ Red
 Patrick Henry - ESFJ
 [Big-R] Passionate Orator
 "Give me liberty, or give me death!"
-[Y] 68% versus 32% [B]
+[Y] 68% sees specifics versus 32% sees patterns [B]
 [R] 53% versus 47% [G]
 [GR] 53% versus 47% [BY]
 
@@ -31,7 +31,7 @@ Yellow
 George Washington - ISTJ
 [Big-Y] Practical Everyman
 Stoic Commander, President, Role Model
-[Y] 89% versus 11% [B]
+[Y] 89% sensible versus 11% contemplative [B]
 [G] 53% versus 47% [R]
 [GR] 58% versus 42% [BY]
 
