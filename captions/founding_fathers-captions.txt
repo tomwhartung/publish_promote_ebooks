@@ -1,32 +1,36 @@
 
-Blue - INTP
------------
-Thomas Jefferson - Has a lot of Blue in his image
-Idealistic Philosopher - Wrote the Declaration of Independence
+Blue
+----
+Thomas Jefferson - INTP
+[Big-B] Idealistic Author
+Declared everyone is "created equal"
 [B] 79% versus 21% [Y]
 [G] 53% versus 47% [R]
 [BY] 79% versus 21% [GR]
 
-Green - ESTJ
-------------
-Alexander Hamilton - Has a lot of Green in his image
-Logical Organizer - Created the First American Bank
+Green
+-----
+Alexander Hamilton - ESTJ
+[Big-G] Logical Organizer
+Soldier, Leader, Founder of Federal Bank
 [Y] 63% versus 37% [B]
 [G] 84% versus 16% [R]
 [GR] 84% versus 16% [BY]
 
-Red - ESFJ
-----------
-Patrick Henry - Has a lot of Red in his image
-Passionate Orator - "Give Me Liberty, Or Give Me Death!"
+Red
+---
+Patrick Henry - ESFJ
+[Big-R] Passionate Orator
+"Give me liberty, or give me death!"
 [Y] 68% versus 32% [B]
 [R] 53% versus 47% [G]
 [GR] 53% versus 47% [BY]
 
-Yellow - ISTJ
--------------
-George Washington - Has a lot of Yellow in his image
-Realistic General - Won the Revolutionary War
+Yellow
+------
+George Washington - ISTJ
+[Big-Y] Practical Everyman
+Stoic Commander, President, Role Model
 [Y] 89% versus 11% [B]
 [G] 53% versus 47% [R]
 [GR] 58% versus 42% [BY]
