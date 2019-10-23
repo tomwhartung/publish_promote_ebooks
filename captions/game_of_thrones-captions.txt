@@ -1,0 +1,29 @@
+
+Blue
+----
+Bran Stark - INTP
+[B] 74% versus 26% [Y]
+[G] 79% versus 21% [R]
+[BY] 84% versus 16% [GR]
+
+Green
+-----
+Jamie Lannister - ESTJ
+[Y] 89% versus 11% [B]
+[G] 79% versus 21% [R]
+[GR] 53% versus 47% [BY]
+
+Yellow
+------
+Jon Snow - ISTJ
+[Y] 68% versus 32% [B]
+[G] 53% versus 47% [R]
+[GR] 53% versus 47% [BY]
+
+Red
+---
+Catelyn Stark - ESFJ
+[Y] 68% versus 32% [B]
+[R] 63% versus 37% [G]
+[GR] 58% versus 42% [BY]
+
