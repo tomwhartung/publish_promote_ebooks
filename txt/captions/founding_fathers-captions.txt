@@ -17,15 +17,6 @@ Soldier, Leader, Created First Federal Bank
 [G] 84% rational versus 16% emotional [R]
 [GR] 84% forthright versus 16% still learning [BY]
 
-Red
----
-Patrick Henry - ESFJ
-[Big-R] Passionate Orator
-"Give me liberty, or give me death!"
-[Y] 68% sees specifics versus 32% sees patterns [B]
-[R] 53% dramatic versus 47% reasonable [G]
-[GR] 53% headstrong versus 47% seeking [BY]
-
 Yellow
 ------
 George Washington - ISTJ
@@ -34,4 +25,13 @@ Stoic Commander, President, Role Model
 [Y] 89% sensible versus 11% contemplative [B]
 [G] 53% even-handed versus 47% compassionate [R]
 [GR] 58% determination versus 42% flexibility [BY]
+
+Red
+---
+Patrick Henry - ESFJ
+[Big-R] Passionate Orator
+"Give me liberty, or give me death!"
+[Y] 68% sees specifics versus 32% sees patterns [B]
+[R] 53% dramatic versus 47% reasonable [G]
+[GR] 53% headstrong versus 47% seeking [BY]
 
