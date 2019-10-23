@@ -16,9 +16,9 @@ Jamie Lannister - ESTJ
 Yellow
 ------
 Jon Snow - ISTJ
-[Y] 68% versus 32% [B]
-[G] 53% versus 47% [R]
-[GR] 53% versus 47% [BY]
+[Y] 68% sensible versus 32% thoughtful [B]
+[G] 53% fighter versus 47% peacemaker [R]
+[GR] 53% determined versus 47% cooperative [BY]
 
 Red
 ---
