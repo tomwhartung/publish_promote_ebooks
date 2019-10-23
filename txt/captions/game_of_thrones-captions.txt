@@ -9,9 +9,9 @@ Bran Stark - INTP
 Green
 -----
 Jamie Lannister - ESTJ
-[Y] 89% versus 11% [B]
-[G] 79% versus 21% [R]
-[GR] 53% versus 47% [BY]
+[Y] 89% happy-go-lucky versus 11% religious [B]
+[G] 79% coldhearted versus 21% compassionate [R]
+[GR] 53% cocky versus 47% irresponsible [BY]
 
 Yellow
 ------
