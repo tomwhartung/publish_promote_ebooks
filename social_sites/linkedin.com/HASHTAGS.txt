@@ -1,0 +1,14 @@
+
+#autobiography
+#biography
+#books
+#bookreview
+#election
+#goodreads
+#memoir
+#politics
+#review
+
+#house
+#senate
+
