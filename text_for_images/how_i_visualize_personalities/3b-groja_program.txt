@@ -7,9 +7,7 @@ The Groja (c) program draws the image by translating the questionnaire results i
 
 GRoJA stands for Graphical Representations of Jungian Archetypes.
 
-As technology has evolved, I have written several versions of the program over the years.
-
-I had the current version online for several years, but it became obvious that only spammers were interested in finding a vulnerability in the joomla site so they could post their evil links, so I replaced it with a python site.
+In Jungian terms, Blue represents iNtuition, Green represents Thinking, Red represents Feeling, and Yellow represents Sensation.  Images of Extroverts contain a Vertical line and images of Introverts contain a Horizontal line.
 
 For more about the Groja program, see the About page at groja.com , http://groja.com/about .
 
