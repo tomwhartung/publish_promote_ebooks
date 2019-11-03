@@ -1,13 +1,13 @@
 
-How I Visualize Personalities
+How I Draw Personalities
 
 Step 3 - Draw the Image - Example
 
-As technology has evolved, I have written several versions of the program and put them online, and the most recent version is based on Joomla.
+As technology has evolved, I have written several versions of the Groja(c) program and put them online, and the most recent version is based on Joomla.
 
-After being online for several years, it became apparent only spammers were interested in finding a vulnerability in the site, hoping to post their spammy links at my expense, so I replaced it with a more secure python site.
+After being online for several years, it was apparent only spammers were interested in finding a technical vulnerability and posting their spammy links at my expense, so I replaced it with a more secure python site.
 
-As far as I can tell, I am the only person interested in visualizing personalities, which is fine with me.  Here is an image of Thomas Jefferson's:
+Sometimes it seems I am the only person interested in visualizing personalities - and that is fine with me!  Here is an image of the personality of Thomas Jefferson, who was also very unique:
 
 --------------------
 - Thomas Jefferson -
