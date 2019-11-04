@@ -13,15 +13,15 @@ Alexander Hamilton - ESTJ
 
 Tom H. MBTI - INTP
 ------------------
-[G] 63% versus 37% [R]
-[B] 84% versus 16% [Y]
-[BY] 53% versus 47% [GR]
+[G] 63% cool-headed versus 37% passionate [R]
+[B] 84% insightful versus 16% superficial [Y]
+[BY] 53% live and let live versus 47% headstrong [GR]
 
 Thomas Jefferson - INTP
 -----------------------
 [G] 53% versus 47% [R]
 [B] 79% versus 21% [Y]
-[BY] 79% versus 21% [GR]
+[BY] 79% laissez-faire versus 21% [GR]
 
 Fox Mulder, X-Files - INFP
 --------------------------
@@ -50,6 +50,6 @@ Steve Bannon - ENTJ
 Tom H. 2019 - INFP
 ------------------
 [R] 63% personable versus 37% neutral [G]
-[B] 79% deep versus 21% superficial [Y]
+[B] 79% deep versus 21% shallow [Y]
 [BY] 63% exploring versus 37% doing [GR]
 
