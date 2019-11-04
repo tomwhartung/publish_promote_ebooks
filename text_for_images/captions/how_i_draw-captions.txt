@@ -23,17 +23,17 @@ Thomas Jefferson - INTP
 [B] 79% ingenious versus 21% sensible [Y]
 [BY] 79% laissez-faire versus 21% assertive [GR]
 
-Fox Mulder, X-Files - INFP
---------------------------
+Fox Mulder - X-Files - INFP
+---------------------------
 [R] 58% benevolent versus 42% hardass [G]
 [B] 74% sees the forest versus 26% sees the trees [Y]
 [BY] 74% unsure versus 26% know-it-all [GR]
 
-Dana Scully, X-Files  - ESTJ
-----------------------------
-[G] 84% versus 16% [R]
-[Y] 79% versus 21% [B]
-[GR] 68% versus 32% [BY]
+Dana Scully - X-Files  - ESTJ
+-----------------------------
+[G] 84% methodical versus 16% compassionate [R]
+[Y] 79% down-to-earth versus 21% head in the clouds [B]
+[GR] 68% self-assured versus 32% open to possibilities [BY]
 
 Donald Trump - ESFJ
 -------------------
