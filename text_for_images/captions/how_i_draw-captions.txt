@@ -23,14 +23,14 @@ Thomas Jefferson - INTP
 [B] 79% versus 21% [Y]
 [BY] 79% versus 21% [GR]
 
-Fox Mulder - INFP
------------------
-[R] 58% versus 42% [G]
-[B] 74% versus 26% [Y]
-[BY] 74% versus 26% [GR]
+Fox Mulder, X-Files - INFP
+--------------------------
+[R] 58% benevolent versus 42% hardass [G]
+[B] 74% sees the forest versus 26% sees the trees [Y]
+[BY] 74% unsure versus 26% know-it-all [GR]
 
-Dana Scully - ESTJ
-------------------
+Dana Scully, X-Files  - ESTJ
+----------------------------
 [G] 84% versus 16% [R]
 [Y] 79% versus 21% [B]
 [GR] 68% versus 32% [BY]
