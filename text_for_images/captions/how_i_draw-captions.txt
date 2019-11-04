@@ -1,9 +1,9 @@
 
 Tom H. 1987 - INFP
 ------------------
-[R] 68% versus 32% [G]
-[B] 53% versus 47% [Y]
-[BY] 53% versus 47% [GR]
+[R] 53% empathetic versus 47% even-handed [G]
+[B] 68% principled versus 32% grounded [Y]
+[BY] 53% inquisitive versus 47% committed [GR]
 
 Alexander Hamilton - ESTJ
 -------------------------
