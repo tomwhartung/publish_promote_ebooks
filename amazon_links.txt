@@ -6,6 +6,8 @@ Bookshelf:
 - https://kdp.amazon.com/en_US/bookshelf
 Author Central:
 - https://authorcentral.amazon.com/gp/profile
+Merchandising Tips:
+- https://kdp.amazon.com/en_US/help/topic/G200673650
 
 My page - memorable version:
 - https://amazon.com/author/tomwhartung
