@@ -10,6 +10,12 @@ Image work area is in:
   - Original portraits from the galleries at seeourminds.com
 - `templates`
   - Starting points
+- `fullsize`
+  - 1800 x 1800
+- `fullsize-name`
+  - 1800 x 2155
+- `fullsize-percentages`
+  - 1800 x 2560
 - ``
 
 # Processes
@@ -32,9 +38,30 @@ Use these to create the cards
 
 ### 1. Create full-sized captioned portraits
 
-- 1. Create full-sized 1800 x 1800 portraits - `fullsize`
-- 2. Add name to each - `fullsize-name`
+- 1. Create full-sized portraits - 1800 x 1800 - `fullsize`
+- 2. Add name to each - 1800 x 2155 - `fullsize-name`
+  - 2.1. Guide for name at 2052 px
+  - 2.2. Font for name: 128 px, Bold
 - 3. Add percentages captions to each - `fullsize-percentages`
+  - 3.1. Font for percentages: 64 px
+  - 3.2. Guides for bottoms of percentages lines at: 2195, 2338, 2481
+
+Calculations for Guides for Percentages values:
+- Top of percentages area: 2052
+- Bottom of percentages area: 2560
+- Vertical space in percentages area: 2560-2052 = 508
+- Font size: 64
+  - Vertical space needed for text: 3*64 = 192
+  - Vertical space left for margins: 508-192 = 316
+- Height of each margin: 316/4 = 79
+- Top and bottom of each line:
+  - Top of line 1: 2052 + 79 = 2131
+  - Bottom of line 1: 2131 + 64 = 2195 (*)
+  - Top of line 2: 2195 + 79 = 2274
+  - Bottom of line 2: 2274 + 64 = 2338 (*)
+  - Top of line 3: 2338 + 79 = 2417
+  - Bottom of line 3: 2417 + 64 = 2481 (*)
+  - Final margin check: 2481 + 79 = 2560
 
 ### 2. If needed, create full-sized combo images with captions
 
