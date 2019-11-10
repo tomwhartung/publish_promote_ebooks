@@ -14,25 +14,30 @@ Starting points for sizes come from what we used for ebooks.
 # Resolution + Aspect Ratio
 
 Use these aspect ratios as a starting point.
-
-Add space to image as necessary to fit everything on it ok.
+- Add or subtract space to and from image as necessary to fit everything on it ok.
 
 ## Square Images
 
-- 1800 px x 1800 px
+Square: 1800 px x 1800 px
 
-## Most Popular: 16 x 9 and 16 x 10
+## Landscape and Portrait Images
 
-- Landscape 16 x 10: 2880 x 1800
-  - 8 x 5 ~= 16 x 10 ~= 2880 x 1800
+Most popular aspect ratios: 16 x 9 and 16 x 10
+
+Landscape: 3200 x 1800
+
 - Landscape 16 x 9: 3200 x 1800
   - 16 x 9 ~= 3200 x 1800
   - Allows more room for text
-
-- Portrait 16 x 10: 1800 x 2880
+- Landscape 16 x 10: 2880 x 1800
   - 8 x 5 ~= 16 x 10 ~= 2880 x 1800
+
+Portrait: 1800 x 3200
+
 - Portrait 16 x 9: 1800 x 3200
   - 16 x 9 ~= 3200 x 1800
+- Portrait 16 x 10: 1800 x 2880
+  - 8 x 5 ~= 16 x 10 ~= 2880 x 1800
 
 ## Other Aspect Ratios
 
