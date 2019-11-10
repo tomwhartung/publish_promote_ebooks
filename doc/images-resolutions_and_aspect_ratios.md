@@ -1,5 +1,5 @@
 
-# images-resolutions.md
+# images-resolutions_and_aspect_ratios.md
 
 Resolutions to use for posting images to social networking sites.
 
