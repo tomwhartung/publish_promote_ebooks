@@ -1,21 +1,27 @@
 
-# 4b-images-resolutions.md
+# images-resolutions.md
 
-Lessons learned about image resolutions.
+Resolutions to use for posting images to social networking sites.
 
-# Use High Resolution Images
+Starting points for sizes come from what we used for ebooks.
 
-- 300 dpi
+# Use Medium Resolution Images
+
+- 100 dpi
 - 1800 px wide - for full width of page
-  - "Page" may be portrait or landscape
-  - Err on side of using higher-resolution images
-- **Regardless of whether it is portrait or landscape, 1800 px is the resolution side of the shortest side**
+- **Regardless of orientation, 1800 px is the resolution side of the shortest side**
 
 # Resolution + Aspect Ratio
 
-## Most Popular: 16 x 9 and 16 x 10
+Use these aspect ratios as a starting point.
 
-Pick one aspect ratio, 16 x 9 or 16 x 10, for Landscape images, and use the other portrait images.
+Add space to image as necessary to fit everything on it ok.
+
+## Square Images
+
+- 1800 px x 1800 px
+
+## Most Popular: 16 x 9 and 16 x 10
 
 - Landscape 16 x 10: 2880 x 1800
   - 8 x 5 ~= 16 x 10 ~= 2880 x 1800
@@ -29,14 +35,6 @@ Pick one aspect ratio, 16 x 9 or 16 x 10, for Landscape images, and use the othe
   - 16 x 9 ~= 3200 x 1800
 
 ## Other Aspect Ratios
-
-### 4 x 3
-
-Used on TVs, which are in general strictly landscape.
-
-- Landscape 4 x 3: 2400 x 1800
-  - 4 x 3 ~= 2400 x 1800
-- Portrait 4 x 3: 1800 x 2400
 
 ### What Worked for GoT Captioned Images
 
