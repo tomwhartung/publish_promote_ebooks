@@ -26,6 +26,7 @@ See `images-resolutions_and_aspect_ratios.md` in this directory.
 - landscape - 3200 x 1800
 - portrait - 1800 x 3200
 - square - 1800 x 1800
+- combo, pair - 1820 x 1280
 
 Use these to create the cards
 
@@ -74,7 +75,7 @@ Process:
 1. Copy needed `fullsize-percentages` images to `halfsize-percentages` directory and rename files
 2. Scale images to 900 x 1280
 3. Export as jpg
-4. Paste into combo template file.
+4. Paste into combo template file - 20px horizontal margin
 
 ### 3. Shrink as needed to make room for text
 
