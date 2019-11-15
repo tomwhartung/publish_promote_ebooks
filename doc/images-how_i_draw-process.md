@@ -6,16 +6,21 @@ Image work area is in:
 
 # Work Area Directories
 
-- `original`
-  - Original portraits from the galleries at seeourminds.com
-- `templates`
-  - Starting points
+- `combo`
+  - Images combining two halfsize-percentages images
+  - 1820 x 1280
 - `fullsize`
   - 1800 x 1800
 - `fullsize-name`
   - 1800 x 2155
 - `fullsize-percentages`
   - 1800 x 2560
+- `halfsize-percentages`
+  - 900 x 1280
+- `original`
+  - Original portraits from the galleries at seeourminds.com
+- `templates`
+  - Starting points
 - ``
 
 # Processes
