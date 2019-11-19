@@ -1,0 +1,14 @@
+
+Template:
+---------
+What's the difference between this: [image of a personality]
+
+And this: [qr code]
+
+This: [image of a personality]
+is an image of the personality of ___.
+
+And this: [qr code]
+is a link to buy my book, which contains over a dozen of these images.
+
+
