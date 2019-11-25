@@ -7,35 +7,35 @@ George Washington - ISTJ
 
 Joe Biden - ESTJ
 ----------------
-[G] 53% versus 47% [R]
-[Y] 53% versus 47% [B]
-[GR] 53% versus 47% [BY]
+[G] 53% Objective versus 47% Personal [R]
+[Y] 53% Realistic versus 47% Optimistic [B]
+[GR] 53% Confident versus 47% Accepting [BY]
 
 
 Alexander Hamilton - ESTJ
 -------------------------
-[G] 84% fighter versus 16% lover [R]
-[Y] 63% acting versus 37% contemplating [B]
-[GR] 84% confident versus 16% seeking advice [BY]
+[G] 84% Fighter versus 16% Lover [R]
+[Y] 63% Acting versus 37% Contemplating [B]
+[GR] 84% Confident versus 16% Seeking advice [BY]
 
 Mitch McConnell - ISTJ
 ----------------------
-[Y] 74% versus 26% [B]
-[G] 95% versus 5% [R]
-[GR] 89% versus 11% [BY]
+[Y] 74% Pragmatic versus 26% Idealistic [B]
+[G] 95% Logical versus 5% Warm [R]
+[GR] 89% Determined versus 11% Satisfied [BY]
 
 
 Thomas Jefferson - INTP
 -----------------------
-[G] 53% head versus 47% heart [R]
-[B] 79% ingenious versus 21% sensible [Y]
-[BY] 79% laissez-faire versus 21% assertive [GR]
+[G] 53% Head versus 47% Heart [R]
+[B] 79% Ingenious versus 21% Sensible [Y]
+[BY] 79% Laissez-faire versus 21% Assertive [GR]
 
 Bernie Sanders - INTJ
 ---------------------
-[B] 84% versus 16% [Y]
-[G] 63% versus 37% [R]
-[GR] 63% versus 37% [BY]
+[B] 84% Principled versus 16% Practical [Y]
+[G] 63% Rational versus 37% Emotional [R]
+[GR] 63% Determined versus 37% Cooperative [BY]
 
 
 Patrick Henry - ESFJ
@@ -46,9 +46,9 @@ Patrick Henry - ESFJ
 
 Donald Trump - ESFJ
 -------------------
-[R] 53% people person versus 47% fighter [G]
-[Y] 63% focused on details versus 37% ideologue [B]
-[GR] 68% insistent versus 32% watching [BY]
+[R] 53% Warm versus 47% Hard [G]
+[Y] 63% Realistic versus 37% Imaginative [B]
+[GR] 68% Determined versus 32% Accepting [BY]
 
 
 John Adams - ENTJ
@@ -59,15 +59,15 @@ John Adams - ENTJ
 
 Elizabeth Warren - ENTJ
 -----------------------
-[G] 58% versus 42% [R]
-[B] 53% versus 47% [Y]
-[GR] 74% versus 26% [BY]
+[G] 58% Cool-headed versus 42% Affable [R]
+[B] 53% Insightful versus 47% Practical [Y]
+[GR] 74% Determined versus 26% Open [BY]
 
 Mike Pence - ENTJ
 -----------------
-[G] 63% versus 37% [R]
-[B] 58% versus 42% [Y]
-[GR] 74% versus 26% [BY]
+[G] 63% Ambitious versus 37% Friendly [R]
+[B] 58% Religious versus 42% Earth-bound [Y]
+[GR] 74% Confident versus 26% Unpretentious [BY]
 
 
 Ben Franklin - ENTP
@@ -78,20 +78,20 @@ Ben Franklin - ENTP
 
 Cory Booker - ENFP
 ------------------
-[R] 68% versus 32% [G]
-[B] 74% versus 26% [Y]
-[BY] 58% versus 42% [GR]
+[R] 68% Hope versus 32% Realism [G]
+[B] 74% Harmony versus 26% Logistics [Y]
+[BY] 58% Open versus 42% Confident [GR]
 
 
 Tom W Hartung 1987 - INFP
 -------------------------
-[R] 53% empathetic versus 47% even-handed [G]
-[B] 68% principled versus 32% grounded [Y]
-[BY] 53% inquisitive versus 47% committed [GR]
+[R] 53% Empathetic versus 47% Even-handed [G]
+[B] 68% Principled versus 32% Grounded [Y]
+[BY] 53% Inquisitive versus 47% Committed [GR]
 
 Tom W Hartung 2019 - INFP
 -------------------------
-[R] 63% personable versus 37% neutral [G]
-[B] 79% deep versus 21% shallow [Y]
-[BY] 63% exploring versus 37% doing [GR]
+[R] 63% Personable versus 37% Neutral [G]
+[B] 79% Deep versus 21% Shallow [Y]
+[BY] 63% Exploring versus 37% Doing [GR]
 
