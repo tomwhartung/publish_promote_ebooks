@@ -1,0 +1,53 @@
+
+George Washington - ISTJ
+------------------------
+[Y] % versus % [B]
+[G] % versus % [R]
+[GR] % versus % [BY]
+
+Joe Biden - ESTJ
+----------------
+[G] % versus % [R]
+[Y] % versus % [B]
+[GR] % versus % [BY]
+
+
+Alexander Hamilton - ESTJ
+-------------------------
+[G] 84% fighter versus 16% lover [R]
+[Y] 63% acting versus 37% contemplating [B]
+[GR] 84% confident versus 16% seeking advice [BY]
+
+
+Thomas Jefferson - INTP
+-----------------------
+[G] 53% head versus 47% heart [R]
+[B] 79% ingenious versus 21% sensible [Y]
+[BY] 79% laissez-faire versus 21% assertive [GR]
+
+
+Patrick Henry - ESFJ
+--------------------
+[R] % versus % [G]
+[Y] % versus % [B]
+[GR] % versus % [BY]
+
+Donald Trump - ESFJ
+-------------------
+[R] 53% people person versus 47% fighter [G]
+[Y] 63% focused on details versus 37% ideologue [B]
+[GR] 68% insistent versus 32% watching [BY]
+
+
+Tom W Hartung 1987 - INFP
+-------------------------
+[R] 53% empathetic versus 47% even-handed [G]
+[B] 68% principled versus 32% grounded [Y]
+[BY] 53% inquisitive versus 47% committed [GR]
+
+Tom W Hartung 2019 - INFP
+-------------------------
+[R] 63% personable versus 37% neutral [G]
+[B] 79% deep versus 21% shallow [Y]
+[BY] 63% exploring versus 37% doing [GR]
+
