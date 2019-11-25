@@ -72,9 +72,9 @@ Mike Pence - ENTJ
 
 Ben Franklin - ENTP
 -------------------
-[G] 63% versus 37% [R]
-[B] 53% versus 47% [Y]
-[BY] 68% versus 32% [GR]
+[G] 63% Methodical versus 37% Personable [R]
+[B] 53% Studious versus 47% Fun [Y]
+[BY] 68% Adaptable versus 32% Fixed [GR]
 
 Cory Booker - ENFP
 ------------------
