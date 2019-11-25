@@ -51,6 +51,38 @@ Donald Trump - ESFJ
 [GR] 68% insistent versus 32% watching [BY]
 
 
+John Adams - ENTJ
+-----------------
+[G] 74% versus 26% [R]
+[B] 53% versus 47% [Y]
+[GR] 63% versus 37% [BY]
+
+Elizabeth Warren - ENTJ
+-----------------------
+[G] 58% versus 42% [R]
+[B] 53% versus 47% [Y]
+[GR] 74% versus 26% [BY]
+
+Mike Pence - ENTJ
+-----------------
+[G] 63% versus 37% [R]
+[B] 58% versus 42% [Y]
+[GR] 74% versus 26% [BY]
+
+
+Ben Franklin - ENTP
+-------------------
+[G] 63% versus 37% [R]
+[B] 53% versus 47% [Y]
+[BY] 68% versus 32% [GR]
+
+Cory Booker - ENFP
+------------------
+[R] 68% versus 32% [G]
+[B] 74% versus 26% [Y]
+[BY] 58% versus 42% [GR]
+
+
 Tom W Hartung 1987 - INFP
 -------------------------
 [R] 53% empathetic versus 47% even-handed [G]
