@@ -1,15 +1,15 @@
 
 George Washington - ISTJ
 ------------------------
-[Y] % versus % [B]
-[G] % versus % [R]
-[GR] % versus % [BY]
+[Y] 89% versus 11% [B]
+[G] 53% versus 47% [R]
+[GR] 42% versus 58% [BY]
 
 Joe Biden - ESTJ
 ----------------
-[G] % versus % [R]
-[Y] % versus % [B]
-[GR] % versus % [BY]
+[G] 53% versus 47% [R]
+[Y] 53% versus 47% [B]
+[GR] 53% versus 47% [BY]
 
 
 Alexander Hamilton - ESTJ
@@ -18,6 +18,12 @@ Alexander Hamilton - ESTJ
 [Y] 63% acting versus 37% contemplating [B]
 [GR] 84% confident versus 16% seeking advice [BY]
 
+Mitch McConnell - ISTJ
+----------------------
+[Y] 74% versus 26% [B]
+[G] 95% versus 5% [R]
+[GR] 89% versus 11% [BY]
+
 
 Thomas Jefferson - INTP
 -----------------------
@@ -25,12 +31,18 @@ Thomas Jefferson - INTP
 [B] 79% ingenious versus 21% sensible [Y]
 [BY] 79% laissez-faire versus 21% assertive [GR]
 
+Bernie Sanders - INTJ
+---------------------
+[B] 84% versus 16% [Y]
+[G] 63% versus 37% [R]
+[GR] 63% versus 37% [BY]
+
 
 Patrick Henry - ESFJ
 --------------------
-[R] % versus % [G]
-[Y] % versus % [B]
-[GR] % versus % [BY]
+[R] 68% versus 32% [G]
+[Y] 53% versus 47% [B]
+[GR] 53% versus 47% [BY]
 
 Donald Trump - ESFJ
 -------------------
