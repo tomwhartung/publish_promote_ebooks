@@ -1,21 +1,25 @@
 
-[title font]
-Deep Personalities - 3/7
+[45 px in upper right corner]
+3 of 8
+[Tip top title font]
+Visualizing
+[name font]
+Deep and Deeper Personalities
 
-[smaller font]
+[Text left font]
 These are images of the personalities of Thomas Jefferson and Bernie Sanders
 They have deep images and deep personalities.
 
 [Halfsize-percentages images of Thomas and Bernie]
 
-[smaller font]
+[Text left font]
 Thomas and Bernie are similar in that both have a preference for ideas over reality
 Thomas and Bernie are different in that Thomas is more open, Bernie is more decisive
 
 [slightly larger font]
 The [nicest | coolest | most intersting | etc.] thing about people with ___ personalities is ___.
 
-[smaller font]
+[Text left font]
 These images appear on seeourminds.com and in the ebook Visualizing Politicians' Personalities.
 For more general information, see https://groja.com/about .
 
