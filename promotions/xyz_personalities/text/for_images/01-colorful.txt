@@ -1,14 +1,18 @@
 
-[title font]
-Colorful Personalities - 1/7
+[45 px in upper right corner]
+1 of 8
+[Tip top title font]
+Visualizing
+[name font]
+Colorfully Warm Personalities
 
-[smaller font]
+[Text left font]
 These are images of the personalities of George Washington and Joe Biden.
 They have colorful images and flexible personalities.
 
 [Halfsize-percentages images of George and Joe]
 
-[smaller font]
+[Text left font]
 George and Joe are similar in that their images are colorful so they have moderate tendencies
 George and Joe are different in that Joe is more outgoing – gaffes
 
@@ -16,7 +20,7 @@ George and Joe are different in that Joe is more outgoing – gaffes
 Super cool fact: George did not belong to a party!
 The [nicest | coolest | most intersting | etc.] thing about people with ___ personalities is ___.
 
-[smaller font]
+[Text left font]
 These images appear on seeourminds.com and in the ebook Visualizing Politicians' Personalities.
 For more general information, see https://groja.com/about .
 
