@@ -1,0 +1,27 @@
+
+[45 px in upper right corner]
+7 of 8
+[Tip top title font]
+Visualizing
+[name font]
+Khaleesi's and Pete's Personalities
+
+[Text left font]
+These are images of the personalities of Daenerys Targaryen, a character on Game of Thrones, and Pete Buttigieg.
+They have colorful, flexible, yet very rare personalities.
+
+[Images of featured individuals, with percentages]
+
+[Text left font]
+These people are similar in that ___.
+These people are different in that ___.
+
+[slightly larger font]
+The [nicest | coolest | most intersting | etc.] thing about people with ___ personalities is ___.
+
+[Text left font]
+These images appear on seeourminds.com and in the ebook Visualizing Politicians' Personalities.
+For more general information, see https://groja.com/about .
+
+[signature and link to amazon author page]
+
