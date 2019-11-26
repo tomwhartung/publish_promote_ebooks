@@ -1,21 +1,25 @@
 
-[title font]
-Ben's and Cory's Personalities - 6/7
+[45 px in upper right corner]
+6 of 8
+[Tip top title font]
+Visualizing
+[name font]
+Ben's and Cory's Personalities
 
-[smaller font]
+[Text left font]
 These are images of the personalities of Ben Franklin and Cory Booker
 They have open, deep, colorful images and open, deep, and flexible personalities.
 
 [Halfsize-percentages images of Ben and Cory]
 
-[smaller font]
+[Text left font]
 These people are similar in that both are idealistic and outgoing
 These people are different in that Ben is more logical while Cory is more people-oriented
 
 [slightly larger font]
 The [nicest | coolest | most intersting | etc.] thing about people with ___ personalities is ___.
 
-[smaller font]
+[Text left font]
 These images appear on seeourminds.com and in the ebook Visualizing Politicians' Personalities.
 For more general information, see https://groja.com/about .
 
