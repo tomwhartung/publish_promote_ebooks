@@ -4,7 +4,9 @@
 [Tip top title font]
 Visualizing
 [name font]
-Colorfully Warm Personalities
+Colorfully Warm
+[Tip top title font]
+Personalities
 
 [Text left font]
 These are images of the personalities of George Washington and Joe Biden.

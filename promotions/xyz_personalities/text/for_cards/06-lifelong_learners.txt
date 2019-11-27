@@ -4,20 +4,22 @@
 [Tip top title font]
 Visualizing
 [name font]
-Ben's and Cory's Personalities
+Lifelong Learners'
+[Tip top title font]
+Personalities
 
 [Text left font]
 These are images of the personalities of Ben Franklin and Cory Booker
 They have open, deep, colorful images and open, deep, and flexible personalities.
 
-[Halfsize-percentages images of Ben and Cory]
+[Diptych of halfsize-percentages images of Ben and Cory]
 
 [Text left font]
-Ben and Cory are both open, idealistic, and outgoing.  The main
-difference between them is Ben is more interested in learning
-about things while Cory is more people-oriented.
+Ben and Cory are both open, idealistic, and outgoing.  They differ
+in that Ben is more interested in learning about things and
+nature, while Cory is warmer and more people-oriented.
 
-[slightly larger font]
+[italicized font]
 Ben and Cory risked their lives - Ben with a kite, Cory with his
 choice of residence - to learn more about our world.
 

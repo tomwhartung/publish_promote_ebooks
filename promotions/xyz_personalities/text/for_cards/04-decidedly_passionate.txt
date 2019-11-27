@@ -4,7 +4,9 @@
 [Tip top title font]
 Visualizing
 [name font]
-Decidedly Passionate Personalities
+Decidedly Passionate
+[Tip top title font]
+Personalities
 
 [Text left font]
 These are images of the personalities of Patrick Henry and
