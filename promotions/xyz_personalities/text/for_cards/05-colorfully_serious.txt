@@ -7,21 +7,26 @@ Visualizing
 Colorfully Serious Personalities
 
 [Text left font]
-These are images of the personalities of John Adams, Elizabeth Warren, and Mike Pence.
-They have colorful yet quite cool images and are natural born politicians.
+These are images of the personalities of John Adams, Elizabeth
+Warren, and Mike Pence.  Their images are colorful but show
+they have a tendency to be cool-headed and principled.
 
 The personalities of Kamala Harris and Michael Bennet are
-remarkably similar to the personalities of these three colorfully
-serious people.
+remarkably similar to the personalities of these three
+colorfully serious people.
 
-[Thirdsize-percentages images of John, Elizabeth, and Mike]
+[Tryptich of thirdsize-percentages images of John, Elizabeth, and Mike]
 
 [Text left font]
-John, Elizabeth, and Mike are similar in that their images are colorful so they are versatile but with an emphasis on ideas and logic – Jeffersonian but outgoing, decisive, and much less extreme
-John, Elizabeth, and Mike are different in that ___.
+John, Elizabeth, and Mike have slight preferences, but tend to be
+reasonable and motivated by their ideals.
 
-[slightly larger font]
-The [nicest | coolest | most intersting | etc.] thing about people with ___ personalities is ___.
+All three went to law school, and their balanced tendencies show
+they can apply abstract legal concepts to the facts of the case,
+and can debate logically while understanding peoples' emotions.
+
+[italicized font]
+Steve Bannon has similar preferences, but they are much more extreme.
 
 [Text left font]
 Learn more about these images in the ebook Visualizing Politicians'
