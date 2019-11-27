@@ -4,7 +4,9 @@ X of 8
 [Tip top title font]
 Visualizing
 [title font]
-___ Personalities
+___
+[Tip top title font]
+Personalities
 
 [Text left font]
 These are images of the personalities of ___ and ___.
