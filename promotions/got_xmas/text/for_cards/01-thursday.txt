@@ -1,5 +1,5 @@
 
-[Title font]
+[Title font + bold]
 Attention Black Friday Shoppers!
 
 [Text medium font]
