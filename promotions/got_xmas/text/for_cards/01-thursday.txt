@@ -1,0 +1,29 @@
+
+[Title font]
+Attention Black Friday Shoppers!
+
+[Text medium font]
+What can you get the Game of Thrones Fan who has everything?
+
+[title font + bold + italic + underline]
+Visualizing Game of Thrones
+Personalities: Full Edition
+
+[Text medium font + italic + larger]
+Now Available in Both Paperback and Ebook Form!
+
+[Images of Jon and Ygritte]
+
+[Text left font]
+These are images of the personalities of Jon Snow and Ygritte. Jon is a bit shy, but otherwise
+they have similar personalities, enabling them to connect despite their cultural differences.
+
+[Medium font+]
+Buy it now at http://bit.ly/twh-vgotp
+
+[sig-url font + underline]
+http://amazon.com/author/tomwhartung
+
+[signature font]
+Tom W. Hartung, 2019
+
