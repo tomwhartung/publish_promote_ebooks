@@ -1,14 +1,17 @@
 
-[title font]
-Attention [Black Friday|Cyber Monday] Shoppers
+[Title font + bold]
+Attention [Black Friday|Holiday|Cyber Monday] Shoppers
 
-[Text left font]
-What to get the Game of Thrones Fan who has everything?
+[Text medium font]
+What can you get the Game of Thrones Fan who has everything?
+Where can you get the most unique Game of Thrones book ever?
 
-[title font]
-Visualizing Game of Thrones Personalities: Full Edition
+[Title font + bold + italic + underline]
+Visualizing Game of Thrones
+Personalities: Full Edition
 
-Is available in both ebook and paperback form!
+[Text medium font + italic + larger]
+Is now available in both ebook and paperback form!
 
 
 [Images of featured individuals]
@@ -18,11 +21,12 @@ Is available in both ebook and paperback form!
 These are images of the personalities of ___ and ___.
 They have ___ personalities.
 
-[Text left font]
-Learn more about these images in the ebook Visualizing Game of Thrones
-Personalities: Full Edition
+[Text medium font+]
+Buy the Paperback and Ebook Today at http://bit.ly/twh-vgotp
 
-Also available in paperback!
+[sig-url font + underline]
+http://amazon.com/author/tomwhartung
 
-[signature and link to amazon author page]
+[signature font]
+Tom W. Hartung, 2019
 
