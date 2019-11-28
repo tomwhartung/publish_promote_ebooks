@@ -1,0 +1,29 @@
+
+[Title font + bold]
+Cyber Monday Shoppers!
+
+[Text medium font]
+Give the gift of seeing Game of Thrones from a new perspective:
+
+[Title font + bold + italic + underline]
+Visualizing Game of Thrones
+Personalities: Full Edition
+
+[Text medium font + italic + larger]
+This unique, bold new book is now available as an ebook and a paperback!
+
+[Images of Olenna and Margaery Tyrell]
+
+[Text left font]
+These images of the personalities of Olenna Tyrell and her granddaughter Margaery show that
+they are both outgoing but otherwise opposites.  To learn more, buy my one-of a-kind new book!
+
+[Text medium font+]
+Buy the Paperback and Ebook Today at http://bit.ly/twh-vgotp
+
+[sig-url font + underline]
+http://amazon.com/author/tomwhartung
+
+[signature font]
+Tom W. Hartung, 2019
+
