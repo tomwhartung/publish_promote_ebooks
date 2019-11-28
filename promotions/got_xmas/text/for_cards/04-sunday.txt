@@ -1,0 +1,30 @@
+
+[Title font]
+Attention Cyber Monday Shoppers!
+
+[Text medium font]
+Get the most unique Game of Thrones book ever written:
+
+[Title font + bold + italic + underline]
+Visualizing Game of Thrones
+Personalities: Full Edition
+
+[Text medium font + italic + larger]
+Now available in both ebook and paperback form!
+
+[Images of the three Baratheon brothers]
+
+[Text left font]
+These are images of the personalities of the three brothers Robert, Stannis,
+and Renly Baratheon.  When the reckless, fun-loving King Robert dies, will his
+successor be the cold, heartless Stannis, or the warm, likeable Renly?
+
+[Text medium font+]
+Buy the Paperback and Ebook Today at http://bit.ly/twh-vgotp
+
+[sig-url font + underline]
+http://amazon.com/author/tomwhartung
+
+[signature font]
+Tom W. Hartung, 2019
+
