@@ -25,5 +25,9 @@ The [nicest | coolest | most intersting | etc.] thing about people with ___ pers
 Learn more about these images in the ebook Visualizing Politicians'
 Personalities, and see more spiritual portraits on seeourminds.com.
 
-[signature and link to amazon author page]
+[sig-url font + underline]
+https://amazon.com/author/tomwhartung
+
+[signature font]
+(c) Tom W. Hartung 2019
 
