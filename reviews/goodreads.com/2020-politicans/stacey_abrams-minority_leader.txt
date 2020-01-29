@@ -1,13 +1,14 @@
 
-<i><u>[Full title]</u></i> is a book by [Author] published in [Year].
+<i><u>Minority Leader, How to Lead From the Outside and Make Real Change</u></i> is a book by Stacey Abrams published in 2018.
 
-It is about [Topic].
+Stacey Abrams wrote it for minorities, women, and others who are outsiders who do not typically occupy positions of power.
+She wrote it to help them nurture their ambition, overcome their fear, and learn how to set and achieve their goals.
 
 
 
-<i><u>[Short title]</u></i> is one of the nearly twenty books about politicians I read in the summer of 2019 while researching a book about incumbents, candidates, and other politicians.
+I read <i><u>Minority Leader</u></i> so that I could draw an image of their personality for posting online and perhaps use in a future book.
 
-I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
+I am giving <i><u>Minority Leader</u></i> 5 of 5 stars because [reason].
 
 [Some more about how much I liked it.]
 
@@ -24,12 +25,7 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 <blockquote>
 <i></i>
- &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
+ &mdash; From <i><u>Minority Leader</u></i>, by Stacey Abrams, p. X.
 </blockquote>
-
-
-After reading [Author]'s book about [Topic] I incorporated the insight gained to help describe one or more of the spiritual portraits in my ebook <i><u><a href="https://www.amazon.com/Visualizing-Politicians-Personalities-Incumbents-Candidates-ebook/dp/B07XYHQ16R/">Visualizing Politicians' Personalities, 2019 Incumbents and Candidates.</a></u></i>
-
-I based the abstract image of [person]'s personality in the ebook on this book, so it of course contains more about <i><u>[Full title]</u></i> - in case you are interested.
 
 
