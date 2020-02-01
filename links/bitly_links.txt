@@ -27,6 +27,11 @@ QR code:
 
 Goodreads
 ---------
+2020 Politicians List:
+- https://www.goodreads.com/review/list/75089145-tom-hartung?shelf=2020-politicians
+Bitly Version:
+- http://bit.ly/twh-pols-2020
+
 2019 Politicians List:
 - https://www.goodreads.com/review/list/75089145-tom-hartung?utf8=%E2%9C%93&shelf=2019-politicians&title=tom-hartung&sort=position&order=a
 Bitly Version:
