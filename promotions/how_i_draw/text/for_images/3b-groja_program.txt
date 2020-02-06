@@ -3,7 +3,7 @@ How I Draw Personalities
 
 Step 3 - Draw the Image
 
-The Groja(c) program draws the image by translating the questionnaire results into an image containing a multitude of squares drawn in one of the four primary colors Blue, Green, Red, or Yellow.
+The Groja(c) program draws the image by translating the results -- preferably in percentages -- of a Jungian questionnaire into an image.  The resultant image expresses the answers into a multitude of squares drawn in one of the four primary colors Blue, Green, Red, or Yellow.
 
 GRoJA is an acronym for Graphical Representations of Jungian Archetypes.
 
