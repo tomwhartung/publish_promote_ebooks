@@ -1,15 +1,29 @@
 
 How I Draw Personalities
 
-Step 3 - Draw the Image - Example
+Step 3 - Use a program to draw the image
 
-As technology has evolved, I have written several versions of the Groja(c) program and put them online.  The most recent version is based on Joomla.
+Drawing the image is the easiest and most fun step in the process.
+There are random elements to the images, so I generate several
+versions for each personality and pick the one I like the best.
 
-Once the site was online, it quickly became apparent only spammers were interested in it, hoping to find a technical vulnerability so they could post their spammy links.  So I now keep the joomla version private and have a much more secure python site for public use.
+I wrote the first version of the Groja(c)
+program on a PC in LISP while in graduate
+school at Virginia Commonwealth
+University in the late 1980s.
 
-Sometimes it seems I am the only person interested in visualizing personalities - and that is fine with me!  Here is one of my favorite images, of the personality of Thomas Jefferson:
+[Thirdsize image of Darth Vader]
 
---------------------
-- Thomas Jefferson -
---------------------
+As technology has evolved, I have written
+a few versions of the Groja program in
+PHP, using CMSes such as Joomla, and
+put them online.
+
+Monetization of a project like this can be
+challenging, and I found itmakes more sense for me to just run
+the site locally when I need to, rather than attract hackers, who
+as it turns out just love those PHP CMSes.
+
+For more about the Groja program, see the About page at
+Groja.com , http://groja.com/about
 
