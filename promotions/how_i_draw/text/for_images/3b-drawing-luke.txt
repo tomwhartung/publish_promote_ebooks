@@ -1,13 +1,29 @@
 
 How I Draw Personalities
 
-Step 3 - Draw the Image
+Step 3 - Use a program to draw the image
 
-The Groja(c) program draws the image by translating the results -- preferably in percentages -- of a Jungian questionnaire into an image.  The resultant image expresses the answers into a multitude of squares drawn in one of the four primary colors Blue, Green, Red, or Yellow.
+Once I have the results of a Jungian archetypes questionnaire, I
+use the Groja(c) program to draw the image.  GRoJA stands for
+Graphical Representations of Jungian Archetypes.
 
-GRoJA is an acronym for Graphical Representations of Jungian Archetypes.
+The Groja program translates the results
+into an image containing Blue, Green,
+Red, and Yellow squares.  One of these
+four colors dominates each image, and
+another plays a supporting role.
 
-In Jungian terms, Blue represents iNtuition - a Perceiving function; Yellow represents Sensation - also a Perceiving function; Green represents Thinking - a Judging function; and Red represents Feeling - also a Judging function.  Images of Extroverts contain a Vertical line and images of Introverts contain a Horizontal line.
+[Thirdsize image of Luke Skywalker]
 
-For more about the Groja program, see the About page at groja.com , http://groja.com/about .
+In Jungian terms, the amount of Blue in
+a spiritual portrait reflects a person's
+preference for iNtuition, and Yellow
+represents their preference for Sensation,
+both of which are Perceiving functions and imply openness.
+Similarly, the amount of Green in the image reflects their
+preference for Thinking, and Red represents a preference for
+Feeling, both of which are Judging functions and imply ambition.
+Images of Extroverts contain a Vertical line and Introverts'
+portraits contain a Horizontal line -- but these can be hard to
+see when preferences are strong.
 
