@@ -1,15 +1,30 @@
 
 How I Draw Personalities
 
-Step 4 - Post to Sites
+Step 4 - Post images online
 
-Groja.com contains an overview of what spiritual portraits are all about and enables you to sign up for my email list.
+Over the years I have created a few web sites to showcase
+these images.  The sites are Groja.com, SeeOurMinds.com, and
+ArtsyVisions.com, and I have switched from PHP to Python.
 
-The galleries at SeeOurMinds.com host the images of hundreds of personalities - both real and fictional.
+Groja.com features an About page with an
+overview of what spiritual portraits are all
+about.  It is also where you can go to join
+my email list.
 
-SeeOurMinds.com also host the SeeOurMinds Quiz, which you can use to discover your preferences and ultimately see your portrait.
+[Thirdsize image of Fox Mulder's personality]
 
-Created in 2018, ArtsyVisions.com is the newest site.  It hosts some favorite portraits of individuals, pairs, and small groups of people who are related in some way.  Writing stores about these pairs and groups of images is what made me decide to start writing ebooks.
+SeeOurMinds.com features galleries and
+the SeeOurMinds Quiz.
 
-Work on these sites is on hold for the time being while I write ebooks.
+The galleries at SeeOurMinds.com contain
+just about every image I have ever
+created.  This includes images of hundreds
+of personalities - both real and fictional.  You can find images of
+androids' personalities under Star Wars, images of my kitty cats'
+personalities under Family, and even some I consider to be
+mistakes under Experiments.
+
+The SeeOurMinds Quiz has several options, ranging from 2XS or
+12 questions to 2XL or 88 questions.
 
