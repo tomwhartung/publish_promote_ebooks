@@ -5,23 +5,45 @@ Tom W Hartung 1987 - INFP
 [B] 68% principled versus 32% grounded [Y]
 [BY] 53% inquisitive versus 47% committed [GR]
 
+
 Alexander Hamilton - ESTJ
 -------------------------
 [G] 84% fighter versus 16% lover [R]
 [Y] 63% acting versus 37% contemplating [B]
 [GR] 84% confident versus 16% seeking advice [BY]
 
-Tom W Hartung MBTI - INTP
--------------------------
-[G] 63% cool-headed versus 37% passionate [R]
-[B] 84% insightful versus 16% superficial [Y]
-[BY] 53% live and let live versus 47% headstrong [GR]
-
 Thomas Jefferson - INTP
 -----------------------
 [G] 53% head versus 47% heart [R]
 [B] 79% ingenious versus 21% sensible [Y]
 [BY] 79% laissez-faire versus 21% assertive [GR]
+
+
+Tom H - Humanmetrics - INFJ
+---------------------------
+[B] 89% imaginative versus 11% practical [Y]
+[R] 63% warm-hearted versus 37% even-tempered [G]
+[GR] 63% determined versus 37% cooperative [BY]
+
+Tom H - MBTI - INTP
+-------------------
+[G] 63% cool-headed versus 37% passionate [R]
+[B] 84% insightful versus 16% superficial [Y]
+[BY] 53% live and let live versus 47% headstrong [GR]
+
+
+Luke Skywalker - Star Wars - ENTP
+---------------------------------
+[B] 79% versus 21% [Y]
+[G] 53% versus 47% [R]
+[BY] 68% versus 32% [GR]
+
+Darth Vader - Star Wars - ISTJ
+------------------------------
+[Y] 68% versus 32% [B]
+[G] 53% versus 47% [R]
+[GR] 74% versus 26% [BY]
+
 
 Fox Mulder - X-Files - INFP
 ---------------------------
@@ -35,17 +57,19 @@ Dana Scully - X-Files  - ESTJ
 [Y] 79% down-to-earth versus 21% head in the clouds [B]
 [GR] 68% self-assured versus 32% open to possibilities [BY]
 
+
 Donald Trump - ESFJ
 -------------------
 [R] 53% people person versus 47% fighter [G]
 [Y] 63% focused on details versus 37% ideologue [B]
 [GR] 68% insistent versus 32% watching [BY]
 
-Steve Bannon - ENTJ
--------------------
+Steve Bannon - ENTJ - UNUSED
+----------------------------
 [G] 95% troublemaker versus 5% peacemaker [R]
 [B] 63% intelligent versus 37% smart [Y]
 [GR] 74% already decided versus 26% reads books [BY]
+
 
 Tom W Hartung 2019 - INFP
 -------------------------
