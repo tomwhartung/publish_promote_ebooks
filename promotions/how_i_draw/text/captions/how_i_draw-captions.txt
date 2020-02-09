@@ -34,15 +34,15 @@ Tom H - MBTI - INTP
 
 Luke Skywalker - Star Wars - ENTP
 ---------------------------------
-[B] 79% versus 21% [Y]
-[G] 53% versus 47% [R]
-[BY] 68% versus 32% [GR]
+[B] 79% sees the big picture versus 21% lives in the moment [Y]
+[G] 53% keeps cool when stressed versus 47% impassioned [R]
+[BY] 68% still learning versus 32% decider [GR]
 
 Darth Vader - Star Wars - ISTJ
 ------------------------------
-[Y] 68% versus 32% [B]
-[G] 53% versus 47% [R]
-[GR] 74% versus 26% [BY]
+[Y] 68% observant versus 32% contemplative [B]
+[G] 53% combative versus 47% hot-tempered [R]
+[GR] 74% arrogant versus 26% pussy-whipped [BY]
 
 
 Fox Mulder - X-Files - INFP
@@ -63,6 +63,12 @@ Donald Trump - ESFJ
 [R] 53% people person versus 47% fighter [G]
 [Y] 63% focused on details versus 37% ideologue [B]
 [GR] 68% insistent versus 32% watching [BY]
+
+Nancy Pelosi - INTJ
+-------------------
+[B] 53% optimistic versus 37% realistic [Y]
+[G] 58% reasonable versus 42% affable [R]
+[GR] 69% hardheaded versus 32% easy-going [BY]
 
 Steve Bannon - ENTJ - UNUSED
 ----------------------------
