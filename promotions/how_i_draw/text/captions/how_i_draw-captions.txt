@@ -34,8 +34,8 @@ Tom H - MBTI - INTP
 
 Luke Skywalker - Star Wars - ENTP
 ---------------------------------
-[B] 79% sees the big picture versus 21% lives in the moment [Y]
-[G] 53% keeps cool when stressed versus 47% impassioned [R]
+[B] 79% big picture versus 21% lives in the moment [Y]
+[G] 53% keeps cool versus 47% impassioned [R]
 [BY] 68% still learning versus 32% decider [GR]
 
 Darth Vader - Star Wars - ISTJ
@@ -66,20 +66,34 @@ Donald Trump - ESFJ
 
 Nancy Pelosi - INTJ
 -------------------
-[B] 53% optimistic versus 37% realistic [Y]
+[B] 53% optimistic versus 47% realistic [Y]
 [G] 58% reasonable versus 42% affable [R]
-[GR] 69% hardheaded versus 32% easy-going [BY]
+[GR] 68% hardheaded versus 32% easy-going [BY]
+
+
+George Washington - ISTJ
+------------------------
+[Y] 89% down to earth versus 11% head in the clouds [B]
+[G] 53% stoicism versus 47% social graces [R]
+[GR] 58% decider versus 42% listener [BY]
+
+Patrick Henry - ESFJ
+--------------------
+[R] 68% passionate versus 32% reasoned [G]
+[Y] 53% style versus 47% substance [B]
+[GR] 53% stubborn versus 47% live and let live [BY]
+
+
+
+Tom W Hartung 2019 - INFP - UNUSED
+----------------------------------
+[R] 63% personable versus 37% neutral [G]
+[B] 79% deep versus 21% shallow [Y]
+[BY] 63% exploring versus 37% doing [GR]
 
 Steve Bannon - ENTJ - UNUSED
 ----------------------------
 [G] 95% troublemaker versus 5% peacemaker [R]
 [B] 63% intelligent versus 37% smart [Y]
 [GR] 74% already decided versus 26% reads books [BY]
-
-
-Tom W Hartung 2019 - INFP
--------------------------
-[R] 63% personable versus 37% neutral [G]
-[B] 79% deep versus 21% shallow [Y]
-[BY] 63% exploring versus 37% doing [GR]
 
