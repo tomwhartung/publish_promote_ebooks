@@ -5,7 +5,7 @@ Step 4 - Post images online
 
 Over the years I have created a few web sites to showcase
 these images.  The sites are Groja.com, SeeOurMinds.com, and
-ArtsyVisions.com, and I have switched from PHP to Python.
+ArtsyVisions.com.  Over time I have switched from PHP to Python.
 
 Groja.com features an About page with an
 overview of what spiritual portraits are all
