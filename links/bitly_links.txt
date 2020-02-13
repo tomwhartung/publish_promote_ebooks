@@ -2,6 +2,28 @@
 
 NOTE: More links appear in amazon_links.txt in this directory, along with HTML for them.
 
+My Sites
+--------
+ArtsyVisions - Mulder & Scully:
+- https://www.artsyvisions.com/visions/story/0050-pairs-x_files-mulder_and_scully
+Bitly Version:
+- http://bit.ly/av-xfiles
+
+Groja - About:
+- https://www.groja.com/about
+Bitly Version:
+- http://bit.ly/about-grojas
+
+SeeOurMinds - All Galleries:
+- https://www.seeourminds.com/galleries/
+Bitly Version:
+- http://bit.ly/som-all
+
+SeeOurMinds - Quiz:
+- https://www.seeourminds.com/quiz
+Bitly Version:
+- http://bit.ly/som-quiz
+
 Medium
 ------
 My articles:
@@ -38,6 +60,7 @@ Bitly Version:
 - http://bit.ly/twh-pols-2020
 
 2019 Politicians List:
+- https://www.goodreads.com/review/list/75089145-tom-hartung?shelf=2019-politicians
 - https://www.goodreads.com/review/list/75089145-tom-hartung?utf8=%E2%9C%93&shelf=2019-politicians&title=tom-hartung&sort=position&order=a
 Bitly Version:
 - http://bit.ly/tomwhartung-goodreads
