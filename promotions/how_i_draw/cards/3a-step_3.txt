@@ -1,0 +1,11 @@
+
+I use the Groja(c) program to draw the image.  GRoJA stands for Graphical Representations of Jungian Archetypes.
+This program is no longer online due to lack of interest, but I still run it locally to create new images.
+
+I wrote the first version of this program in LISP on an 8088 PC in the late 1980s.
+
+#art #abstract #abstractart #mbti #personality
+
+http://bit.ly/about-grojas
+https://www.groja.com/about
+
