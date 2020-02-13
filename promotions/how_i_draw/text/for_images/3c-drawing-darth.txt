@@ -20,7 +20,7 @@ PHP, using CMSes such as Joomla, and
 put them online.
 
 Monetization of a project like this can be
-challenging, and I found itmakes more sense for me to just run
+challenging, and I found it makes more sense for me to just run
 the site locally when I need to, rather than attract hackers, who
 as it turns out just love those PHP CMSes.
 
