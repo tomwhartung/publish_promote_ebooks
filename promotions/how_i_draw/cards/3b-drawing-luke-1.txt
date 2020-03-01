@@ -1,11 +1,8 @@
 
-The Groja program draws Graphical Representations of Jungian Archetypes by translating the results of the questionnaire into an image containing Blue, Green, Red, and Yellow squares.
-One of these four colors dominates each image, and another plays a supporting role.
-
+The Groja program draws Graphical Representations of Jungian Archetypes by translating the results of the questionnaire into an image containing Blue, Green, Red, and Yellow squares.  One of these four colors dominates each image, and another plays a supporting role.
 Luke is an ENTP.  The Blue represents his idealism, and the Green represents his objectivity.
 
-#art #abstract #abstractart #mbti #personality
-#starwars #jedi #lukeskywalker #entp
+#art #abstract #abstractart #mbti #personality #starwars #jedi #lukeskywalker #entp
 
 http://bit.ly/about-grojas
 https://www.groja.com/about
