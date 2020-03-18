@@ -1,15 +1,24 @@
 
-<i><u>[Full title]</u></i> is an [autobiography, biography, memoir, story, etc.] by [Author] published in [Year].
-
-It covers [their whole life, part of it, etc.]
-
+<i><u>Whistleblower, My Journey to Silicon Valley and Fight for Justice at Uber</u></i> is a memoir by Susan Fowler published in 2020.
+It covers her whole life, but a bit over half of it is about the harassment, discrimination, and abuse she and other employees faced working at Uber.
 
 
-<i><u>[Short title]</u></i> is one of the nearly twenty books about politicians I read in the summer of 2019 while researching a book about incumbents, candidates, and other politicians.
+I am giving <i><u>Whistleblower</u></i> 5 of 5 stars because it is an inspiring and excellent story of courage, and the dangers and rewards of speaking truth to power.
 
-I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
-[Some more about how much I liked it.]
+Susan's revelations begin with her growing up living in poverty in rural Arizona.
+In Chapter 1 she writes of having six brothers and sisters, and at one point she heard <i>"my mother telling my father that they'd made five thousand dollars that year"</i> [p. 8].
+
+
+Susan was homeschooled but had a voracious appetite for learning and, through determination and hard work, managed to get into Arizona State University and later into the University of Pennsylvania.
+At Penn Susan <i>"was on track to graduate with three degrees: a BA in physics, a BA in philosophy, and an MA in philosophy"</i> [p. 54] when she befriended <i>"a new student named Tim"</i> [p. 55].
+
+Tim <i>"seemed to have trouble fitting in, so I reached out to him, hoping I could help him become part of the group."</i> [p. 55].
+She learned this was a huge mistake when he <i>"told me he had romantic feelings for me"</i> and, when she told him she was not attracted to him,
+<i>"he said he was going to kill himself"</i> [p. 58].
+
+Susan talked to the police and a wide variety of school administrators, but the situation continued to escalate and Penn eventually <i>"rescinded my master's degree in philosophy, on the grounds that I had withheld information"</i> [p. 63].
+As her frustration increased she wound up spending <i>"hours reading about Title IX"</i> she <i>"realized that Penn had been gaslighting me the entire time"</i> [p. 66].
 
 
 [Key takeaway - most remarkable/incredible/awesome/surprising/interesting/fascinating thing I learned about them from this book is ___.]
@@ -24,11 +33,9 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 <blockquote>
 <i></i>
- &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
+ &mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, p. X.
 </blockquote>
 
 
-After reading [Author]'s book [about [person], if a biography] I created a profile for [her, him, person, etc.] and included their spiritual portrait in my ebook <i><u><a href="https://www.amazon.com/Visualizing-Politicians-Personalities-Incumbents-Candidates-ebook/dp/B07XYHQ16R/">Visualizing Politicians' Personalities, 2019 Incumbents and Candidates.</a></u></i>
-I based the abstract image of [person]'s personality in the ebook on this book, so it of course contains more about <i><u>[Full title]</u></i> - in case you are interested.
-
+I enjoyed/hated/etc. reading Susan Fowler's book [about [person], if a biography], and recommend/warn against/etc. reading it.
 
