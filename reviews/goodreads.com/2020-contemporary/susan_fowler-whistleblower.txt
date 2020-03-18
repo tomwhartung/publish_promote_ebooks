@@ -17,24 +17,27 @@ Tim <i>"seemed to have trouble fitting in, so I reached out to him, hoping I cou
 She learned this was a huge mistake when he <i>"told me he had romantic feelings for me"</i> and, when she told him she was not attracted to him,
 <i>"he said he was going to kill himself"</i> [p. 58].
 
-Susan talked to the police and a wide variety of school administrators, but the situation continued to escalate and Penn eventually <i>"rescinded my master's degree in philosophy, on the grounds that I had withheld information"</i> [p. 63].
-As her frustration increased she wound up spending <i>"hours reading about Title IX"</i> she <i>"realized that Penn had been gaslighting me the entire time"</i> [p. 66].
+Susan talked to the police and a wide variety of school administrators &mdash; including the dean of graduate studies &mdash; but the situation continued to escalate,
+In an unbelievably unconscionable act of retaliation Penn <i>"rescinded my master's degree in philosophy, on the grounds that I had withheld information"</i> [p. 63].
+
+As her frustration increased, Susan eventually wound up spending <i>"hours reading about Title IX"</i> and <i>"realized that Penn had been gaslighting me the entire time"</i> [p. 66].
+Ultimately she realized that she <i>"didn't speak up, because I was afraid"</i> and she <i>"vowed that I would never make the same mistake again."</i> [p. 69].
 
 
-[Key takeaway - most remarkable/incredible/awesome/surprising/interesting/fascinating thing I learned about them from this book is ___.]
+Putting this experience behind her, Susan moved to the San Francisco Bay Area and, after landing a couple of programming jobs, found work at Uber.
+Her troubles there began on her first day, and only grew worse as she tried to fight the powers that be.
 
+<blockquote><i>The abuse that I endured from my managers grew worse with every passing day.  I dreaded going into work, knowing that I'd be yelled at in meetings, that I'd be told I wasn't <q>doing my job,</q> that I wasn't <q>working hard enough,</q> even though I was doing everything that my managers asked of me.  I wasn't the only one who felt this way.  When I told my friends on the site reliability engineering teams what was going on, they said they had the same problems with their managers and teams, too.  Almost every single one of them had started seeing a therapist for anxiety or depress related to the culture of work at Uber; the engineers who'd been at Uber the longest all seemes to have suicidal thoughts.  This scared me, because I was starting to develop anxiety and PTSD from my work, too, and I didn't want my mental health to get worse.</i> &mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, pp. 153-154.</blockquote>
+
+At one point Susan learned one of her colleagues, <i>"a black man named Joseph Thomas who had been bullied by his manager, was dead,"</i> having <i>"shot himself in his car"</i> [p. 164].
+She was able to finally find a way out of Uber only by realizing that although she <i>"couldn't control what others did to me,"</i> she <i>"could control how I reacted"</i> [p. 168].
+
+
+My favorite part of the book comes after she left Uber, when she describes herself deliberating on whether to publish her infamous blog post.
+This brought to mind Michael Schur's show called <i><u>The Good Place,</u></i> in which the characters Eleanor, played by Kristen Bell and Chidi, played by William Jackson Harper, sometimes debate internally what is the right thing to do when confronted with tough options.
 
 <i>"
 "</i> [p. X].
-
-<i>"
-"</i> [p. X].
-
-
-<blockquote>
-<i></i>
- &mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, p. X.
-</blockquote>
 
 
 I enjoyed/hated/etc. reading Susan Fowler's book [about [person], if a biography], and recommend/warn against/etc. reading it.
