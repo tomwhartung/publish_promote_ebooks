@@ -27,7 +27,7 @@ Ultimately she realized that she <i>"didn't speak up, because I was afraid"</i> 
 Putting this experience behind her, Susan moved to the San Francisco Bay Area and, after landing a couple of programming jobs, found work at Uber.
 Her troubles there began on her first day, and only grew worse as she tried to fight the powers that be.
 
-<blockquote><i>The abuse that I endured from my managers grew worse with every passing day.  I dreaded going into work, knowing that I'd be yelled at in meetings, that I'd be told I wasn't <q>doing my job,</q> that I wasn't <q>working hard enough,</q> even though I was doing everything that my managers asked of me.  I wasn't the only one who felt this way.  When I told my friends on the site reliability engineering teams what was going on, they said they had the same problems with their managers and teams, too.  Almost every single one of them had started seeing a therapist for anxiety or depress related to the culture of work at Uber; the engineers who'd been at Uber the longest all seemes to have suicidal thoughts.  This scared me, because I was starting to develop anxiety and PTSD from my work, too, and I didn't want my mental health to get worse.</i> &mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, pp. 153-154.</blockquote>
+<blockquote><i>The abuse that I endured from my managers grew worse with every passing day.  I dreaded going into work, knowing that I'd be yelled at in meetings, that I'd be told I wasn't <q>doing my job,</q> that I wasn't <q>working hard enough,</q> even though I was doing everything that my managers asked of me.  I wasn't the only one who felt this way.  When I told my friends on the site reliability engineering teams what was going on, they said they had the same problems with their managers and teams, too.  Almost every single one of them had started seeing a therapist for anxiety or depress related to the culture of work at Uber; the engineers who'd been at Uber the longest all seemes to have suicidal thoughts.  This scared me, because I was starting to develop anxiety and PTSD from my work, too, and I didn't want my mental health to get worse.</i><br>&nbsp;&mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, pp. 153-154.</blockquote>
 
 At one point Susan learned one of her colleagues, <i>"a black man named Joseph Thomas who had been bullied by his manager, was dead,"</i> having <i>"shot himself in his car"</i> [p. 164].
 She was able to finally find a way out of Uber only by realizing that although she <i>"couldn't control what others did to me,"</i> she <i>"could control how I reacted"</i> [p. 168].
@@ -36,9 +36,10 @@ She was able to finally find a way out of Uber only by realizing that although s
 My favorite part of the book comes after she left Uber, when she describes herself deliberating on whether to publish her infamous blog post.
 This brought to mind Michael Schur's show called <i><u>The Good Place,</u></i> in which the characters Eleanor, played by Kristen Bell and Chidi, played by William Jackson Harper, sometimes debate internally what is the right thing to do when confronted with tough options.
 
-<i>"
-"</i> [p. X].
+She desperately <i>"wanted to do what was right, and not just what was right for me, but what was <u>objectively</u> right"</i> [p. 202], and ultimately her experiences at Penn and her study of philosophy informed her choice.
+
+<blockquote><i>I knew what was just, I knew what was truthful, I knew what was courageous, I knew what was right.  Standing up against injustice was right.  Refusing to give in to fear was right.  Telling the truth was right.  These things were right in every circumstance, regardless of the consequences.<br>I knew what I had to do.  I had to speak up.</i><br>&nbsp;&mdash; From <i><u>[Short title]</u></i>, by Susan Fowler, p. 203.</blockquote>
 
 
-I enjoyed/hated/etc. reading Susan Fowler's book [about [person], if a biography], and recommend/warn against/etc. reading it.
+I truly enjoyed reading Susan Fowler's book and recommend it to everyone who is working in technology or considering a career in it, especially if you &mdash; like me &mdash; truly love programming and have no desire to go into management.
 
