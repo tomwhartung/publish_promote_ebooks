@@ -1,41 +1,31 @@
 
-<i><u>Whistleblower, My Journey to Silicon Valley and Fight for Justice at Uber</u></i> is a memoir by Susan Fowler published in 2020.
-It covers her whole life, but a bit over half of it is about the harassment, discrimination, and abuse she and other employees faced working at Uber.
+<i><u>Whistleblower, My Journey to Silicon Valley and Fight for Justice at Uber</u></i> is a memoir by Susan Fowler published in 2020.  It covers her whole life, but a bit over half of it details the harassment, discrimination, and abuse she and other employees faced working at Uber.
 
+I am giving <i><u>Whistleblower</u></i> 5 of 5 stars because it is a very inspiring story of courage, and of the dangers and rewards of speaking truth to power.
 
-I am giving <i><u>Whistleblower</u></i> 5 of 5 stars because it is an inspiring and excellent story of courage, and the dangers and rewards of speaking truth to power.
+Susan's book begins with her growing up in poverty in rural Arizona.  In Chapter 1 she writes of having six brothers and sisters, and at one point she tells of overhearing <i>"my mother telling my father that they'd made five thousand dollars that year"</i> [p. 8].
 
+Susan was homeschooled and she had a voracious appetite for learning.  Through sheer determination and hard work, she managed to first get into Arizona State University and then later into the University of Pennsylvania.  At Penn she was happy to be <i>"on track to graduate with three degrees: a BA in physics, a BA in philosophy, and an MA in philosophy"</i> [p. 54] when she befriended <i>"a new student named Tim"</i> [p. 55].
 
-Susan's revelations begin with her growing up living in poverty in rural Arizona.
-In Chapter 1 she writes of having six brothers and sisters, and at one point she heard <i>"my mother telling my father that they'd made five thousand dollars that year"</i> [p. 8].
+Tim <i>"seemed to have trouble fitting in, so I reached out to him, hoping I could help him become part of the group."</i> [p. 55].  She learned this act of kindness was a huge mistake when he <i>"told me he had romantic feelings for me"</i> and, when she told him the feelings were not mutual, <i>"he said he was going to kill himself"</i> [p. 58].
 
+Susan talked to the police and a wide variety of school administrators &mdash; including the dean of graduate studies &mdash; about Tim's suicidal threats, but the situation continued to escalate.  At one point, in an unbelievably unconscionable act of retaliation, Penn <i>"rescinded my master's degree in philosophy, on the grounds that I had withheld information"</i> [p. 63].
 
-Susan was homeschooled but had a voracious appetite for learning and, through determination and hard work, managed to get into Arizona State University and later into the University of Pennsylvania.
-At Penn Susan <i>"was on track to graduate with three degrees: a BA in physics, a BA in philosophy, and an MA in philosophy"</i> [p. 54] when she befriended <i>"a new student named Tim"</i> [p. 55].
+As her frustration increased, Susan eventually wound up spending <i>"hours reading about Title IX"</i> and <i>"realized that Penn had been gaslighting me the entire time"</i> [p. 66].  Ultimately she realized that she <i>"didn't speak up, because I was afraid"</i> and she <i>"vowed that I would never make the same mistake again."</i> [p. 69].
 
-Tim <i>"seemed to have trouble fitting in, so I reached out to him, hoping I could help him become part of the group."</i> [p. 55].
-She learned this was a huge mistake when he <i>"told me he had romantic feelings for me"</i> and, when she told him she was not attracted to him,
-<i>"he said he was going to kill himself"</i> [p. 58].
+Putting this experience behind her, Susan moved to the San Francisco Bay Area and, after landing a couple of programming jobs, found work at Uber.  Her troubles there began on her first day, and only grew worse as she tried to fight the powers that be.
 
-Susan talked to the police and a wide variety of school administrators, but the situation continued to escalate and Penn eventually <i>"rescinded my master's degree in philosophy, on the grounds that I had withheld information"</i> [p. 63].
-As her frustration increased she wound up spending <i>"hours reading about Title IX"</i> she <i>"realized that Penn had been gaslighting me the entire time"</i> [p. 66].
+<blockquote><i>The abuse that I endured from my managers grew worse with every passing day.  I dreaded going into work, knowing that I'd be yelled at in meetings, that I'd be told I wasn't "doing my job," that I wasn't "working hard enough," even though I was doing everything that my managers asked of me.  I wasn't the only one who felt this way.  When I told my friends on the site reliability engineering teams what was going on, they said they had the same problems with their managers and teams, too.  Almost every single one of them had started seeing a therapist for anxiety or depression related to the culture of work at Uber; the engineers who'd been at Uber the longest all seemed to have suicidal thoughts.  This scared me, because I was starting to develop anxiety and PTSD from my work, too, and I didn't want my mental health to get worse.</i><br>&nbsp;&mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, pp. 153-154.</blockquote>
 
+At one point Susan learned one of her colleagues, <i>"a black man named Joseph Thomas who had been bullied by his manager, was dead,"</i> having <i>"shot himself in his car"</i> [p. 164].  She was able to finally find a way out of Uber only by realizing that although she <i>"couldn't control what others did to me,"</i> she <i>"could control how I reacted"</i> [p. 168].
 
-[Key takeaway - most remarkable/incredible/awesome/surprising/interesting/fascinating thing I learned about them from this book is ___.]
+My favorite part of the book comes after she left Uber, when she reveals how she deliberated on whether to publish her now famous blog post.  Her mental processes brought to my mind Michael Schur's show <i><u><a href="https://www.imdb.com/title/tt4955642/" target="_blank" alt="link to The Good Place on imdb.com" title="link to The Good Place on imdb.com">The Good Place,</a></u></i> in which the characters Eleanor, played by Kristen Bell, and Chidi, played by William Jackson Harper, sometimes debate internally what the right thing to do is when confronted with tough options.
 
+Susan desperately <i>"wanted to do what was right, and not just what was right for me, but what was <u>objectively</u> right"</i> [p. 202].  Ultimately her experiences at Penn and her study of philosophy informed her choice.
 
-<i>"
-"</i> [p. X].
+<blockquote><i>I knew what was just, I knew what was truthful, I knew what was courageous, I knew what was right.  Standing up against injustice was right.  Refusing to give in to fear was right.  Telling the truth was right.  These things were right in every circumstance, regardless of the consequences.<br>I knew what I had to do.  I had to speak up.</i><br>&nbsp;&mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, p. 203.</blockquote>
 
-<i>"
-"</i> [p. X].
+I really enjoyed reading Susan Fowler's book and recommend it to everyone who is working in technology or considering a career in it.
 
-
-<blockquote>
-<i></i>
- &mdash; From <i><u>Whistleblower</u></i>, by Susan Fowler, p. X.
-</blockquote>
-
-
-I enjoyed/hated/etc. reading Susan Fowler's book [about [person], if a biography], and recommend/warn against/etc. reading it.
+I recommend it especially to anyone who writes code and who &mdash; like me &mdash; truly loves programming and has no desire to go into management.
 
