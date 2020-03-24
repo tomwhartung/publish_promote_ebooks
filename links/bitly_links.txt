@@ -19,6 +19,12 @@ SeeOurMinds - All Galleries:
 Bitly Version:
 - http://bit.ly/som-all
 
+SeeOurMinds - Cheers Galleries:
+- https://www.seeourminds.com/cheers/
+- https://www.seeourminds.com/galleries/cheers/
+Bitly Version:
+- http://bit.ly/som-cheers
+
 SeeOurMinds - Quiz:
 - https://www.seeourminds.com/quiz
 Bitly Version:
