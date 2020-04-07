@@ -1,5 +1,5 @@
 
-<i><u>[Full title]</u></i> is an [autobiography, biography, memoir, story, etc.] by [Author] published in [Year].
+<i><u>Bloomberg by Bloomberg</u></i> is an [autobiography, biography, memoir, story, etc.] by Michael Bloomberg published in 2019.
 
 It covers [their whole life, part of it, etc.]
 
@@ -21,9 +21,9 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 <blockquote>
 <i></i>
- &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
+ &mdash; From <i><u>Bloomberg by Bloomberg</u></i>, by Michael Bloomberg, p. X.
 </blockquote>
 
 
-I enjoyed/hated/etc. reading [Author]'s book [about [person], if a biography], and recommend/warn against/etc. reading it.
+I enjoyed/hated/etc. reading Michael Bloomberg's book [about [person], if a biography], and recommend/warn against/etc. reading it.
 
