@@ -12,32 +12,25 @@ The model for personalities that I currently use is based on Jungian Archetypes,
 
 In addition to describing the processes researchers have used to come up with this model and including some insights from evolutionary psychology, Nettle discuss some of the brain imaging experiments scientists have used.
 He revisits these themes again at the end of the book and discusses the results of studies of twins.
-Throughout the book &mdash; <b>spoiler alert</b> &mdash; he makes a very strong case for how we inherit much of makes up our personalities.
+Throughout the book &mdash; <b>minor spoiler alert</b> &mdash; he makes a very strong case for how we inherit much of makes up our personalities.
 
 The bulk of the book consists of devotes an entire chapter to each of the five factors.
 It is easiest to remember these using the acronym <b>OCEAN.</b>
 
-<b>O</b>penness
-<b>C</b>onscientiousness
-<b>E</b>xtraversion
-<b>A</b>greeableness
-<b>N</b>euroticism
+<u><b>O</b>penness</u> &mdash; how open we are to new ideas
+<u><b>C</b>onscientiousness</u> &mdash; how ordered and driven we are internally motivated to be
+<u><b>E</b>xtraversion</u> &mdash; strength of our response to positive emotions
+<u><b>A</b>greeableness</u> &mdash; how much empathy we have for others
+<u><b>N</b>euroticism</u> &mdash; strength of our response to negative emotions
 
 There's plenty about the Big Five on the wikipedia, but it is quite dry.
 Daniel Nettle's book is way better.
 
-The Appendix
+The Appendix includes a 12-question quiz called the <i><u>Newcastle Personality Assessor</u></i> or <i><u>NPA.</u></i>
+Anyone who knows me well will agree with my score of high on Openness, medium high on Conscientiousness and Agreeableness, and low on Extraversion and Neuroticism.
 
-<i>"
-"</i> [p. X].
+I highly recommend <i><u>Personality, What Makes You the Way You Are</u></i>, by Daniel Nettle to anyone interested in learning more about themself and others.
 
-<i>"
-"</i> [p. X].
-
-
-<blockquote>
-<i></i>
- &mdash; From <i><u>Personality, What Makes You the Way You Are</u></i>, by Daniel Nettle, p. X.
-</blockquote>
+It makes the old Jungian Archetypes model seem <i>"strictly bush league"</i> in comparison.
 
 
