@@ -1,19 +1,32 @@
 
-<i><u>[Full title]</u></i> is a book by [Author] published in [Year].
+<i><u>Personality, What Makes You the Way You Are</u></i> is a book by Daniel Nettle published in 2007.
+Daniel Nettle wrote it for people who want to learn more about the five factor model of understanding personalities.
 
-[Author] wrote it for [Audience] and is about [Topic].
-
-
-
-I read <i><u>[Short title]</u></i> so that I could draw an image of their personality for posting online and perhaps use in a future book.
-
-I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
-
-[Some more about how much I liked it.]
+I am giving <i><u>Personality</u></i> 5 of 5 stars because it is the first book I have had the opportunity to read about what some call the <i><u>"Big Five"</u></i> personality factors.
+To say that I found it <i>"enlightening"</i> would be an understatement.
 
 
-[Key takeaway - most remarkable/incredible/awesome/surprising/interesting/fascinating thing I learned about them from this book is ___.]
+I read <i><u>Personality</u></i> to learn more about personalities, because I like to visualize and draw them.
+The model for personalities that I currently use is based on Jungian Archetypes, and it is clear that the five factor model is more comprehensive &mdash; perhaps even dangerously so.
 
+
+In addition to describing the processes researchers have used to come up with this model and including some insights from evolutionary psychology, Nettle discuss some of the brain imaging experiments scientists have used.
+He revisits these themes again at the end of the book and discusses the results of studies of twins.
+Throughout the book &mdash; <b>spoiler alert</b> &mdash; he makes a very strong case for how we inherit much of makes up our personalities.
+
+The bulk of the book consists of devotes an entire chapter to each of the five factors.
+It is easiest to remember these using the acronym <b>OCEAN.</b>
+
+<b>O</b>penness
+<b>C</b>onscientiousness
+<b>E</b>xtraversion
+<b>A</b>greeableness
+<b>N</b>euroticism
+
+There's plenty about the Big Five on the wikipedia, but it is quite dry.
+Daniel Nettle's book is way better.
+
+The Appendix
 
 <i>"
 "</i> [p. X].
@@ -24,7 +37,7 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 <blockquote>
 <i></i>
- &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
+ &mdash; From <i><u>Personality, What Makes You the Way You Are</u></i>, by Daniel Nettle, p. X.
 </blockquote>
 
 
