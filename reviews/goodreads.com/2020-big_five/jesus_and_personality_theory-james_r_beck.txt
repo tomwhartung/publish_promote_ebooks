@@ -1,15 +1,29 @@
 
-<i><u>[Full title]</u></i> is a book by [Author] published in [Year].
+<i><u>Jesus and Personality Theory: Exploring the Five-Factor Model</u></i> is a book by James R. Beck published in 1999.
+The author has a PhD, is a licensed clinical psychologist, and has been a Senior Professor of Counseling at the Denver Seminary since 1984.
 
-[Author] wrote it for [Audience] and is about [Topic].
+James Beck wrote the book for Christian counselors.
+It discusses the five factor model of personality while looking at the life of Jesus Christ.
+
+The main reason I read <i><u>Jesus and Personality Theory</u></i> was to learn more about this theory of personalities.
+Only about 15-20% of it is about the theory, while most of it is about Jesus.
+I am not super-religious but enjoyed the book nonetheless, because it focuses on the ideas and other positive aspects Christianity rather than the divisiveness and other aspects I find to be so negative at times.
+
+I am giving <i><u>Jesus and Personality Theory</u></i> 4 of 5 stars because, although I thoroughly enjoyed it, it ended rather abruptly.
+Also, it has no index, making it less useful as a reference.
 
 
+The five factor model of personality is also known as the <i><u>Big Five</u></i> set of personality traits.
 
-I read <i><u>[Short title]</u></i> so that I could draw an image of their personality for posting online and perhaps use in a future book.
 
-I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
+The bulk of the book consists of five chapters, one for each of the five factors.  It is easiest to remember these using the acronym <b>OCEAN.</b>
 
-[Some more about how much I liked it.]
+<u><b>O</b>penness</u> &mdash; how open we are to new ideas
+<u><b>C</b>onscientiousness</u> &mdash; how ordered and driven we are
+<u><b>E</b>xtraversion</u> &mdash; the strength of our response to positive emotions
+<u><b>A</b>greeableness</u> &mdash; how much empathy we have for others
+<u><b>N</b>euroticism</u> &mdash; the strength of our response to negative emotions
+
 
 
 [Key takeaway - most remarkable/incredible/awesome/surprising/interesting/fascinating thing I learned about them from this book is ___.]
@@ -24,7 +38,7 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 <blockquote>
 <i></i>
- &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
+ &mdash; From <i><u>Jesus and Personality Theory</u></i>, by James R. Beck, p. X.
 </blockquote>
 
 
