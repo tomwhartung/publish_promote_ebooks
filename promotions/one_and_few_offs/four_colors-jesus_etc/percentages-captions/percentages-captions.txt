@@ -1,25 +1,25 @@
 
 Jesus Christ - INFJ
 -------------------
-[B] % versus % [Y]
-[R] % versus % [G]
-[GR] % versus % [BY]
+[B] 84% versus 16% [Y]
+[R] 68% versus 32% [G]
+[GR] 53% versus 47% [BY]
 
 Steve Jobs - ENTJ
 -----------------
-[G] % versus % [R]
-[B] % versus % [Y]
-[GR] % versus % [BY]
+[G] 74% versus 26% [R]
+[B] 79% versus 21% [Y]
+[GR] 89% versus 11% [BY]
 
 Susan Fowler - INFP
 -------------------
-[R] % versus % [G]
-[B] % versus % [Y]
-[BY] % versus % [RG]
+[R] 53% versus 47% [G]
+[B] 74% versus 26% [Y]
+[BY] 58% versus 42% [RG]
 
 Reek - ISFP
 -----------
-[R] % versus % [G]
-[Y] % versus % [B]
-[BY] % versus % [RG]
+[R] 63% versus 37% [G]
+[Y] 68% versus 32% [B]
+[BY] 63% versus 37% [RG]
 
