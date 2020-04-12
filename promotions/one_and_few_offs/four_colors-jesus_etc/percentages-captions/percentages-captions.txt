@@ -1,25 +1,25 @@
 
 Jesus Christ - INFJ
 -------------------
-[B] 84% versus 16% [Y]
-[R] 68% versus 32% [G]
-[GR] 53% versus 47% [BY]
+[B] 84% ideas versus 16% facts [Y]
+[R] 68% passionate versus 32% reasonable [G]
+[GR] 53% determined versus 47% flexible [BY]
 
 Steve Jobs - ENTJ
 -----------------
-[G] 74% versus 26% [R]
-[B] 79% versus 21% [Y]
-[GR] 89% versus 11% [BY]
+[G] 74% cold-hearted versus 26% artistic [R]
+[B] 79% imaginative versus 21% focused on particulars [Y]
+[GR] 89% controlling versus 11% observant [BY]
 
 Susan Fowler - INFP
 -------------------
-[R] 53% versus 47% [G]
-[B] 74% versus 26% [Y]
-[BY] 58% versus 42% [RG]
+[R] 53% subjective versus 47% objective [G]
+[B] 74% loves learning versus 26% detail-oriented [Y]
+[BY] 58% cooperative versus 42% determined [RG]
 
 Reek - ISFP
 -----------
-[R] 63% versus 37% [G]
-[Y] 68% versus 32% [B]
-[BY] 63% versus 37% [RG]
+[R] 63% fearful versus 37% unfeeling [G]
+[Y] 68% short-term focus versus 32% misunderstood [B]
+[BY] 63% obedient versus 37% closed-off [RG]
 
