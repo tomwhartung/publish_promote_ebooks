@@ -1,12 +1,11 @@
 
-<i><u>[Full title]</u></i> is an [autobiography, biography, memoir, story, etc.] by [Author] published in [Year].
+<i><u>First Person: An Astonishly Frank Self-Portrait by Russia's President</u></i> by Vladimir Putin contains a series of interviews with Russia's president and several people close to him.  Published in 2000 it is a different sort of autobiography &mdash; if indeed one could call it that.
+It covers Vladimir's whole life, from his childhood through his marriage and time with the KGB, up to when he became the Acting President of Russia.
 
-It covers [their whole life, part of it, etc.]
 
-
-I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
-
-[Some more about how much I liked it.]
+I am giving <i><u>First Person</u></i> 3 of 5 stars because the book is interesting and informative, but is in a format very different from other autobiographies and biographies.
+It makes no effort at being a story, but is instead a series of interviews with Vladimir, his wife, friends, and colleagues.
+Its rather odd format made it a little difficult to appreciate at first, and it took awhile to get into the book's flow.
 
 
 [Key takeaway - most remarkable/incredible/awesome/surprising/interesting/fascinating thing I learned about them from this book is ___.]
@@ -21,7 +20,7 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 <blockquote>
 <i></i>
- &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
+ &mdash; From <i><u>First Person</u></i>, by [Author], p. X.
 </blockquote>
 
 
