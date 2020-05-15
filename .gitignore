@@ -3,8 +3,9 @@
 #
 
 #
-# For vim and Open Office temporary files
+# For vim, kate, and Open Office temporary files
 #
+*-swp
 *.swp
 .~lock.*
 .*~
