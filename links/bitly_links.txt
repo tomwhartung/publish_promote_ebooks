@@ -4,6 +4,11 @@ NOTE: More links appear in amazon_links.txt in this directory, along with HTML f
 
 My Sites
 --------
+ArtsyVisions - Donald & SteveB:
+- https://www.artsyvisions.com/visions/story/0110-pairs-how_trump_won
+Bitly Version:
+- http://bit.ly/av-how_trump_won
+
 ArtsyVisions - Mulder & Scully:
 - https://www.artsyvisions.com/visions/story/0050-pairs-x_files-mulder_and_scully
 Bitly Version:
