@@ -1,13 +1,13 @@
 
 Fox Mulder - INFP
 -----------------
-[All]
-[R]
-[B]
+[All] His image is fairly colorful, showing he is fairly well-rounded, but the colors show he tends to be open-minded and friendly.
+[R] Personal feelings drive his decisions, and regular viewers know he joined the FBI because of his feelings for his sister.
+[B] Special Agent Fox Mulder is idealistic and focused on solving crimes that, in many cases, only he can Perceive.
 
 Dana Scully - ESTJ
 ------------------
-[All]
-[G]
-[Y]
+[All] Her image is fairly colorful, showing she is fairly well-rounded, but the colors show she tends to be cold and realistic.
+[G] Objective logic drives her decisions and she becomes a loyal partner -- once she learns to accept Fox's idiosyncracies.
+[Y] Special Agent Dana Scully is pragmatic and focused on solving crimes that, in most cases, everyone can Perceive.
 
