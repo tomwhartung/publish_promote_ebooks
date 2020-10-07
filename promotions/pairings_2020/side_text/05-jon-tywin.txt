@@ -2,12 +2,12 @@
 Jon Snow - ISTJ
 ---------------------
 [All] The variety of colors in this image shows he has moderate preferences and is very flexible and well-rounded
-[Y] Born without a father, he is realistic about his options and decides to join the Night's Watch
-[G] Jon can keep his cool during battles and fights, helping him to be a skilled swordsman
+[Y] Born without a father, he is realistic about his options, which are few, and decides to join the Night's Watch
+[G] Jon can *mostly* keep his cool during battles and fights, helping him to be a skilled fighter
 
 Tywin Lannister - ISTJ
 ----------------------
 [GY] Dominated by Green, this image shows he is consistently cold, determined, stubborn, and inflexible
-[Y] As patriarch of the Lannister family, he wants more than anything else to see its continuance
-[G] Tywin thinks he knows everything, and is extremely forceful, condescending, and can be cruel
+[Y] As patriarch of the Lannister family, he is realistic about death and is focused on ensuring his family's legacy
+[G] Tywin thinks he knows everything; he is extremely forceful, condescending, and can be quite cruel
 
