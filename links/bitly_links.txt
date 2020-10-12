@@ -66,6 +66,21 @@ QR code:
 
 Goodreads
 ---------
+Goodreads Review of Bloomberg by Bloomberg by Michael Bloomberg
+- https://www.goodreads.com/review/show/3234181380
+Bitly Version:
+- https://bit.ly/gr-bloomberg
+
+Goodreads Review of Minority Leader by Stacey Abrams
+- https://www.goodreads.com/review/show/3148246583
+Bitly Version:
+- https://bit.ly/gr-abrams
+
+Goodreads Review of A Time for Truth by Ted Cruz
+- https://www.goodreads.com/review/show/3339592504
+Bitly Version:
+- https://bit.ly/gr-cruz
+
 Goodreads Review of With All Due Respect by Nikki Haley
 - https://www.goodreads.com/review/show/3197092545
 Bitly Version:
