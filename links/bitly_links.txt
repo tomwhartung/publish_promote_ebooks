@@ -35,6 +35,13 @@ SeeOurMinds - Quiz:
 Bitly Version:
 - http://bit.ly/som-quiz
 
+Github
+------
+Github: FFM Results Parent Directory
+- https://github.com/tomwhartung/five_factor_model/tree/master/results/ipip-300_items-NEO
+Bitly Version:
+- http://bit.ly/github-ffm-results
+
 Medium
 ------
 All of my articles:
