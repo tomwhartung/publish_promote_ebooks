@@ -1,8 +1,8 @@
 
 I keep the results of all 30 facets of all questionnaires in .csv files on github.  Follow the link and, if you'd like some help, leave a comment or send me a direct message!
 
+#mbti #estj #nikkihaley #donjr #pence #politics #gop #election2024 #election
+
 http://bit.ly/github-ffm-results
 https://github.com/tomwhartung/five_factor_model/tree/master/results/ipip-300_items-NEO
-
-#mbti #estj #nikkihaley #donjr #pence #politics #gop #2024 #election
 
